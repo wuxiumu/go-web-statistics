@@ -27,7 +27,7 @@
 3. **M3**：PV/UV/来源看板（简易 HTML 或 Vue）  
 4. **M4**：Compose 部署 + 导出 CSV  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
